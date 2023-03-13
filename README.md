@@ -10,6 +10,8 @@ Please implement CLI Gstreamer player
 
 # Instructions to be followed:
 1. Please work on the above task, create and upload the required files.
-2. Please save, commit and push the changes to this github repository once the assignment done.
-3. Please push the changes to the main branch only.
-4. Please save the file with your Name.cpp (Ex-Siva.cpp)
+2. Please save the file with your Name.cpp (Ex-Siva.cpp)
+3. Commit and push the changes to this github repository (main branch only) once the assignment done.
+4. Once done ping Assessment Manager Nagabhirava, Kalyan in Teams/Slack.
+5. For any queries, contact Kasirajan, Shanmuga sundaramraj/Haropura Mahadevu, Pavankumar.
+
